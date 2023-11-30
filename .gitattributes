@@ -1,7 +1,7 @@
 include/** linguist-vendored  
 lib/** linguist-vendored  
 engine/src/glad.c linguist-vendored 
-engine/*.ddl -linguist-vendored
+engine/*.ddl linguist-vendored
  
 
 
