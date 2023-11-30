@@ -1,6 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
 new_game/include/* linguist-vendored
 new_game/lib/* linguist-vendored
 new_game/engine/src/glad.c linguist-vendored
-new_game/* linguist-vendored
+new_game/* linguist-vendor
