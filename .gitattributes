@@ -3,3 +3,4 @@
 new_game/include/* linguist-vendored
 new_game/lib/* linguist-vendored
 new_game/engine/src/glad.c linguist-vendored
+new_game/* linguist-vendored
