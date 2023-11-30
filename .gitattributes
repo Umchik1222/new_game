@@ -1,5 +1,5 @@
-new_game/include/* linguist-vendored  
-new_game/lib/* linguist-vendored  
-new_game/engine/src/glad.c linguist-vendored  
-*.ddl -linguist-detectable
+new_game/include/* linguist-generated=false
+new_game/lib/* linguist-generated=false
+new_game/engine/src/glad.c linguist-generated=false  
+
 
