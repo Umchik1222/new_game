@@ -1,5 +1,5 @@
-include/* linguist-vendored
-lib/* linguist-vendored
-engine/src/glad.c linguist-generated
+new_game/include/* linguist-vendored
+new_game/lib/* linguist-vendored
+new_game/engine/src/glad.c linguist-generated
 
 
