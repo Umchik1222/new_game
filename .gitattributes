@@ -1,6 +1,7 @@
 include/** linguist-vendored  
 lib/** linguist-vendored  
 engine/src/glad.c linguist-vendored 
+include/SDL2/SDL_config.h.cmake linguist-vendored
 engine/*.ddl linguist-vendored
  
 
