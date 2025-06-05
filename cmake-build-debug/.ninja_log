@@ -1,0 +1,4 @@
+# ninja log v5
+1	893	7394808576281772	CMakeFiles/mygame.dir/engine/src/main.c.obj	a79542e870f2d5b7
+7	1531	7394808582714424	CMakeFiles/mygame.dir/engine/src/glad.c.obj	a534ba5a6038e308
+1532	1685	7394808584230718	mygame.exe	b4ecf271bc3c7398

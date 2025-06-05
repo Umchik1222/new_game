@@ -27,7 +27,7 @@ int main(int args, char *argv[]){
      Атрибуты контекста определяют версию и профиль OpenGL,
      который будет использоваться при создании контекста.
      Профиль представляет собой спецификацию, которая определяет
-     набор доступных функций и возможностей. 
+     набор доступных функций и возможностей.
 
      SDL_GL_CONTEXT_PROFILE_MASK - определяет профиль OpenGL
      SDL_GL_CONTEXT_PROFILE_CORE - Core Profile(основные возможности, не включает устаревшие возможности)
@@ -76,10 +76,10 @@ int main(int args, char *argv[]){
      для загрузки всех необходимых функций OpenGL для работы с конкретной
      версией OpenGL, которую вы используете.
 
-     
+
     */
     SDL_GL_CreateContext(window);// Когда контекст создан, мы можем использовать функции OpenGL в для рисования этом окне
-    if (!gladLoadGLLoader((GLADloadproc)SDL_GL_GetProcAddress)) { 
+    if (!gladLoadGLLoader((GLADloadproc)SDL_GL_GetProcAddress)) {
         printf("Faild to load GL: %s\n", SDL_GetError());
         exit(1);
     }
@@ -103,10 +103,10 @@ int main(int args, char *argv[]){
                 case SDL_QUIT:
                     should_quit = true;
                     break;
-                default: 
-                    break;    
+                default:
+                    break;
             }
-        } 
+        }
 
     }
     return 0;
